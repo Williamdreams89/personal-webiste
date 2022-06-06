@@ -1,0 +1,12 @@
+a{
+  transition: .4s ease-in-out;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  background-color: rgb(236, 230, 222);
+  /* overflow-x: hidden; */
+}
